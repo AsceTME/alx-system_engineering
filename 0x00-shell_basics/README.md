@@ -1,1 +1,1 @@
- this is the 0x00-shell file
+This is the basics of shell
