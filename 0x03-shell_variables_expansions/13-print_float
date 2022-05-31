@@ -1,2 +1,2 @@
 #!/bin/bash
-prinf 0.2
+prinf %0.2
